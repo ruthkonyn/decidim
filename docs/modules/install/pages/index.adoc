@@ -168,7 +168,7 @@ You can read the xref:admin:system.adoc[System panel] documentation for more inf
 
 == Checklist
 
-There are several things you need to check before making your putting your application on production. See the xref:install:checklist.adoc[checklist].
+There are several things you need to check before making and putting your application on production. See the xref:install:checklist.adoc[checklist].
 
 == Contributing
 
